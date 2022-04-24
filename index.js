@@ -35,7 +35,3 @@ mongoose.connect(
     app.listen(3000);
   })
   .catch((err) => console.log(err))
-
-// mongodb+srv://APIdb:8BFwmJoWNzqeUXam@apimatheusbattistitube.4ulor.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-
-// 8BFwmJoWNzqeUXam
